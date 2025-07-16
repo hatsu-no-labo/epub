@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta name="dtb:uid" content="urn:uuid:d5850263-d86a-30da-9eab-897cb38ec6e8"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle>
+	<text>藪の中</text>
+</docTitle>
+<navMap>
+	<navPoint id="toc1" playOrder="1">
+		<navLabel>
+			<text>藪の中</text>
+		</navLabel>
+		<content src="xhtml/title.xhtml"/>
+	</navPoint>
+	<navPoint id="toc2" playOrder="2">
+		<navLabel>
+			<text>検非違使に問われたる木樵りの物語</text>
+		</navLabel>
+		<content src="xhtml/0001.xhtml#kobo.1.1"/>
+	</navPoint>
+	<navPoint id="toc3" playOrder="3">
+		<navLabel>
+			<text>検非違使に問われたる旅法師の物語</text>
+		</navLabel>
+		<content src="xhtml/0001.xhtml#kobo.5.1"/>
+	</navPoint>
+	<navPoint id="toc4" playOrder="4">
+		<navLabel>
+			<text>検非違使に問われたる放免の物語</text>
+		</navLabel>
+		<content src="xhtml/0001.xhtml#kobo.8.1"/>
+	</navPoint>
+	<navPoint id="toc5" playOrder="5">
+		<navLabel>
+			<text>検非違使に問われたる媼の物語</text>
+		</navLabel>
+		<content src="xhtml/0001.xhtml#kobo.11.1"/>
+	</navPoint>
+	<navPoint id="toc6" playOrder="6">
+		<navLabel>
+			<text>多襄丸の白状</text>
+		</navLabel>
+		<content src="xhtml/0001.xhtml#kobo.16.1"/>
+	</navPoint>
+	<navPoint id="toc7" playOrder="7">
+		<navLabel>
+			<text>清水寺に来れる女の懺悔</text>
+		</navLabel>
+		<content src="xhtml/0001.xhtml#kobo.30.1"/>
+	</navPoint>
+	<navPoint id="toc8" playOrder="8">
+		<navLabel>
+			<text>巫女の口を借りたる死霊の物語</text>
+		</navLabel>
+		<content src="xhtml/0001.xhtml#kobo.38.1"/>
+	</navPoint>
+</navMap>
+</ncx>
